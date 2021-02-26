@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\bin\Debug\netcoreapp3.1\Add Two Numbers.exe
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\bin\Debug\netcoreapp3.1\Add Two Numbers.deps.json
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\bin\Debug\netcoreapp3.1\Add Two Numbers.runtimeconfig.json
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\bin\Debug\netcoreapp3.1\Add Two Numbers.runtimeconfig.dev.json
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\bin\Debug\netcoreapp3.1\Add Two Numbers.dll
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\bin\Debug\netcoreapp3.1\Add Two Numbers.pdb
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\obj\Debug\netcoreapp3.1\Add Two Numbers.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\obj\Debug\netcoreapp3.1\Add Two Numbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\obj\Debug\netcoreapp3.1\Add Two Numbers.AssemblyInfo.cs
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\obj\Debug\netcoreapp3.1\Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\obj\Debug\netcoreapp3.1\Add Two Numbers.dll
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\obj\Debug\netcoreapp3.1\Add Two Numbers.pdb
+C:\Users\user\Desktop\CreamCode\Add Two Numbers\Add Two Numbers\obj\Debug\netcoreapp3.1\Add Two Numbers.genruntimeconfig.cache
