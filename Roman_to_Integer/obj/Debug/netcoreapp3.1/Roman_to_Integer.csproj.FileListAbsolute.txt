@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\bin\Debug\netcoreapp3.1\Roman_to_Integer.exe
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\bin\Debug\netcoreapp3.1\Roman_to_Integer.deps.json
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\bin\Debug\netcoreapp3.1\Roman_to_Integer.runtimeconfig.json
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\bin\Debug\netcoreapp3.1\Roman_to_Integer.runtimeconfig.dev.json
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\bin\Debug\netcoreapp3.1\Roman_to_Integer.dll
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\bin\Debug\netcoreapp3.1\Roman_to_Integer.pdb
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\obj\Debug\netcoreapp3.1\Roman_to_Integer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\obj\Debug\netcoreapp3.1\Roman_to_Integer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\obj\Debug\netcoreapp3.1\Roman_to_Integer.AssemblyInfo.cs
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\obj\Debug\netcoreapp3.1\Roman_to_Integer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\obj\Debug\netcoreapp3.1\Roman_to_Integer.dll
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\obj\Debug\netcoreapp3.1\Roman_to_Integer.pdb
+C:\Users\user\Desktop\CreamCode\Roman_to_Integer\obj\Debug\netcoreapp3.1\Roman_to_Integer.genruntimeconfig.cache
